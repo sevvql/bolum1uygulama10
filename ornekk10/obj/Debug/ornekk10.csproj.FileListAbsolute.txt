@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ornekk10\ornekk10\bin\Debug\ornekk10.exe.config
+C:\Users\User\source\repos\ornekk10\ornekk10\bin\Debug\ornekk10.exe
+C:\Users\User\source\repos\ornekk10\ornekk10\bin\Debug\ornekk10.pdb
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.Form1.resources
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.Properties.Resources.resources
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.exe
+C:\Users\User\source\repos\ornekk10\ornekk10\obj\Debug\ornekk10.pdb
